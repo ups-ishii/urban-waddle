@@ -6,13 +6,3 @@
 
 このリポジトリのURL: https://github.com/ups-ishii/urban-waddle
 
-## やりたいことリスト
-
-- [ ] MCPの学習
-  - [ ] GithubのMCPをCursorで使ってみる
-  - [ ] GithubのMCPをVSCodeで使ってみる
-  - [ ] 他の主要なMCPを使ってみる
-- [ ] Claude Code Action
-- [ ] AI駆動開発
-- [ ] 他の重要なトピック
-
